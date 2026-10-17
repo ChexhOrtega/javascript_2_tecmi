@@ -1,0 +1,25 @@
+{
+  "name": "npm-init",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "license": "MIT",
+  "author": "CIOC",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "eslint": "^10.12.0",
+    "json-server": "^0.15.0",
+    "moment": "^2.31.0",
+    "react": "^19.3.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
