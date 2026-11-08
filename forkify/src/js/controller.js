@@ -1,6 +1,6 @@
 import * as model from './model.js';
 import paginationView from './views/paginationView.js';
-import recipeView from './views/recipeView.js';
+import recipeView from './views/RecipeView.js';
 import resultView from './views/resultView.js';
 import searchView from './views/searchView.js';
 
