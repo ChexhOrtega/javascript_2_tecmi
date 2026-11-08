@@ -1,0 +1,4 @@
+[build]
+  base = "forkify"
+  command = "npm run build"
+  publish = "dist"
